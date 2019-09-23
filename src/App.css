@@ -20,3 +20,66 @@
 .App-link {
   color: #09d3ac;
 }
+
+#content {
+  position: absolute;
+  width: 100%;
+  background: #212124;
+  min-height: 300px;
+  bottom: 0;
+  padding-bottom: 10px;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 10px 10px 15px;
+}
+
+nav {
+  margin: 5px 0 0 10px;
+}
+
+.link {
+  padding: 5px 8px;
+  background-color: #68473c;
+
+  border-radius: 4px 4px 0 0;
+  border: 1px solid #463028;
+  border-bottom: 0;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #463028;
+}
+
+
+.tab-body {
+  background-color: #463028;
+  margin: 4px 10px;
+  padding: 15px;
+  border-radius: 0 4px 4px 4px;
+}
+
+.menu-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.menu-item {
+  width: 250px;
+  text-align: center;
+  padding: 10px;
+}
+
+.menu-image {
+  max-height: 150px;
+  border: 1px black solid;
+}
+
+.menu-caption {
+  margin-top: 8px;
+  padding: 0 5px 0 5px;
+  font-size: 14px;
+}
