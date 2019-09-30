@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-restaurant/static/css/main.3472113a.chunk.css",
+    "main.js": "/react-restaurant/static/js/main.dfa56bd7.chunk.js",
+    "main.js.map": "/react-restaurant/static/js/main.dfa56bd7.chunk.js.map",
+    "runtime-main.js": "/react-restaurant/static/js/runtime-main.cd3abad4.js",
+    "runtime-main.js.map": "/react-restaurant/static/js/runtime-main.cd3abad4.js.map",
+    "static/js/2.e22928dd.chunk.js": "/react-restaurant/static/js/2.e22928dd.chunk.js",
+    "static/js/2.e22928dd.chunk.js.map": "/react-restaurant/static/js/2.e22928dd.chunk.js.map",
+    "index.html": "/react-restaurant/index.html",
+    "precache-manifest.8e96da6182b5256849e26cdfa92c9bac.js": "/react-restaurant/precache-manifest.8e96da6182b5256849e26cdfa92c9bac.js",
+    "service-worker.js": "/react-restaurant/service-worker.js",
+    "static/css/main.3472113a.chunk.css.map": "/react-restaurant/static/css/main.3472113a.chunk.css.map",
+    "static/media/index.css": "/react-restaurant/static/media/background.0e78a5e8.jpg",
+    "static/media/burger.jpg": "/react-restaurant/static/media/burger.866694b7.jpg",
+    "static/media/oysters.jpg": "/react-restaurant/static/media/oysters.921260db.jpg",
+    "static/media/pie.jpg": "/react-restaurant/static/media/pie.0f244325.jpg"
+  }
+}
